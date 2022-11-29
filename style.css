@@ -1,0 +1,6 @@
+/* Body navbarin altinda baslasin diye (body yi 60px indirdik): */
+body::before{
+    display: block;
+    content:'';
+    height: 60px;
+}
