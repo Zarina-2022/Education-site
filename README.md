@@ -1,6 +1,6 @@
 <h1> <b> Education-site </b> </h1>
 
-<h2> On this site you can find all the information about training (or the course):</h2>
+<h2> On this site you can find all information about training (or the course):</h2>
 
 <h2> registration, teachers, training topics, contact details, etc.</h2>
 
